@@ -1,12 +1,3 @@
-# 20190418 YC
-# Using 2010 SPAM data
-# 20210117 YC
-# Re-run using backup data from InSTePP server
-# 20210218 YC
-# Re-run using SPAM 2010 v2 data
-
-# No need to re-run this script, if the output (e.g. ""./Intermediate Data/SPAM_r5_whea_H.grd"" is already present)
-
 rm(list=ls())
 
 library(raster)
